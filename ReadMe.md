@@ -8,7 +8,7 @@
 
 A deep learning project for detecting and classifying military aircraft from satellite imagery using YOLO12 (You Only Look Once version 12). The model is trained on the MAR20 dataset and can identify 20 categories of military aircraft directly from overhead satellite images.
 
----
+----
 
 ## 📌 Table of Contents
 
