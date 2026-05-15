@@ -33,7 +33,7 @@ import gdown
 
 file_id = "YOUR_FILE_ID_HERE"
 gdown.download(
-    f"https://drive.google.com/uc?id={file_id}",
+    f"https://drive.google.com/file/d/1owBbMzMwLgZPwl6dZMRAlkpUJvCx6EB0/view?usp=sharing",
     "/content/MAR20.zip",
     quiet=False
 )
@@ -41,5 +41,3 @@ gdown.download(
 !unzip -q /content/MAR20.zip -d /content/MAR20
 \```
 
-> Get your file ID from the shared Drive link:
-> https://drive.google.com/file/d/**THIS_PART**/view?usp=sharing
