@@ -31,7 +31,6 @@ inside the notebook using gdown:
 !pip install gdown
 import gdown
 
-file_id = "YOUR_FILE_ID_HERE"
 gdown.download(
     f"https://drive.google.com/file/d/1owBbMzMwLgZPwl6dZMRAlkpUJvCx6EB0/view?usp=sharing",
     "/content/MAR20.zip",
