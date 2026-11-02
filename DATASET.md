@@ -32,7 +32,7 @@ inside the notebook using gdown:
 import gdown
 
 gdown.download(
-    f"https://drive.google.com/file/d/1owBbMzMwLgZPwl6dZMRAlkpUJvCx6EB0/view?usp=sharing",
+    f"https://drive.google.com/file/d/1UZJssGTEM_a1vxnfl5o5LAmferQIlj1g/view?usp=sharing",
     "/content/MAR20.zip",
     quiet=False
 )
