@@ -296,7 +296,7 @@ At the end of the notebook, a ZIP file is automatically created and downloaded c
 
 **Amanuel D**
 
-Project: Military Aircraft Detection from Satellite Imagery
+Project: Military Aircraft Detection from Satellite Imagery \n
 Course: Computer Vision and Image Processing
 Platform: Google Colab
 Model: YOLO12 (Ultralytics)
